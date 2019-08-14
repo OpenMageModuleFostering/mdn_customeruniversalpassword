@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
     <name>MDN_CustomerUniversalPassword</name>
-    <version>1.3</version>
+    <version>1.4</version>
     <stability>stable</stability>
     <license>OSL v3</license>
     <channel>community</channel>
@@ -10,8 +10,8 @@
     <description>Log in on front as any customer using universal password for administration purposes</description>
     <notes>enjoy :)</notes>
     <authors><author><name>Zimmermann</name><user>auto-converted</user><email>contact@maisondulogiciel.com</email></author></authors>
-    <date>2009-07-02</date>
-    <time>16:13:01</time>
+    <date>2009-07-03</date>
+    <time>08:07:08</time>
     <contents><target name="magecommunity"><dir name="MDN"><dir name="CustomerUniversalPassword"><dir name="etc"><file name="config.xml" hash="45a8e02d0cfed97881df1b65db773838"/><file name="system.xml" hash="eece3bbd3a5453dd520ced08f2e6290b"/></dir><dir name="Helper"><file name="Data.php" hash="dcd53e349f3729c07e491cee04825494"/></dir><dir name="Model"><file name="Customer.php" hash="904716d400bd9aeb6bed3729c82a6cda"/></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="MDN_CustomerUniversalPassword.xml" hash="4f94d9eab8bb5e7950a0c7d05ff16e06"/></dir></target></contents>
     <compatible/>
     <dependencies/>
