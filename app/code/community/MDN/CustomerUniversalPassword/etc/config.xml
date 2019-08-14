@@ -2,7 +2,7 @@
 <config>
     <modules>
         <MDN_CustomerUniversalPassword>
-            <version>1.0</version>
+            <version>1.3</version>
         </MDN_CustomerUniversalPassword>
     </modules>
     <global>

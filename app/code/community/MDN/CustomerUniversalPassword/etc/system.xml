@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <config>
     <sections>
-    	<customeruniversalpassword module="Orderpreparation">
+    	<customeruniversalpassword module="CustomerUniversalPassword">
             <label>Customer Universal Password</label>
 			<tab>customer</tab>
             <frontend_type>text</frontend_type>
