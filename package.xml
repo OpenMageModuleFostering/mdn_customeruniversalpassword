@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>MDN_CustomerUniversalPassword</name>
+    <version>1.0</version>
+    <stability>stable</stability>
+    <license>OSL v3</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Log in on front as any customer using universal password for administration purposes</summary>
+    <description>Log in on front as any customer using universal password for administration purposes</description>
+    <notes>enjoy :)</notes>
+    <authors><author><name>Zimmermann</name><user>auto-converted</user><email>contact@maisondulogiciel.com</email></author></authors>
+    <date>2009-07-02</date>
+    <time>15:50:36</time>
+    <contents><target name="magecommunity"><dir name="MDN"><dir name="CustomerUniversalPassword"><dir name="etc"><file name="config.xml" hash="d6e5f81909de4f746fccac043d9fee03"/><file name="system.xml" hash="3cc871cadfcc35ff9f8fd6df53a5fc4d"/></dir><dir name="Helper"><file name="Data.php" hash="dcd53e349f3729c07e491cee04825494"/></dir><dir name="Model"><file name="Customer.php" hash="904716d400bd9aeb6bed3729c82a6cda"/></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="MDN_CustomerUniversalPassword.xml" hash="4f94d9eab8bb5e7950a0c7d05ff16e06"/></dir></target></contents>
+    <compatible/>
+    <dependencies/>
+</package>
