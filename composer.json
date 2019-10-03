@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/MDN_CustomerUniversalPassword",
+    "name": "OpenMageModuleFostering\/MDN_CustomerUniversalPassword",
     "type": "magento-module",
     "license": "OSL-v3",
     "homepage": "",
     "description": "Log in on front as any customer using universal password for administration purposes",
     "authors": [
-    {
-        "name": "Zimmermann",
-        "email": "contact@maisondulogiciel.com"
-    }
-],
+        {
+            "name": "Zimmermann",
+            "email": "contact@maisondulogiciel.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
